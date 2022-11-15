@@ -1,1 +1,1 @@
-# 30-Days-Of-Python-Solutions
+# 30 Days Of Python Solutions
